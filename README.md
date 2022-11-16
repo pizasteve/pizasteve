@@ -29,7 +29,7 @@
 
 <h4>Cloud Computing</h4>
 
- <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud"/> <img src="https://img.shields.io/badge/Digital_Ocean-000?style=for-the-badge&logo=DigitalOcean"/> <img src="https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=23bdae"/> <img src="https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku&logoColor=625d9d"/> <img src="https://img.shields.io/badge/nginx-000.svg?style=for-the-badge&logo=nginx&logoColor=009639"/>
+ <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud"/> <img src="https://img.shields.io/badge/Digital_Ocean-000?style=for-the-badge&logo=DigitalOcean"/> <img src="https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=23bdae"/> 
 <br>
 
 
