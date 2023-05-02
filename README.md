@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Science & Cloud Computing** 
 
-- 📫 Reach me → **imaneboukhris@gmail.com**
+- 📫 Reach me → **boukhris.imane.pro@gmail.com**
 
 <br>
 
